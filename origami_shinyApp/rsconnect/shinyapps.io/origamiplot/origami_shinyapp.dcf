@@ -1,0 +1,10 @@
+name: origami_shinyapp
+title:
+username: origamiplot
+account: origamiplot
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13368855
+bundleId: 9378875
+url: https://origamiplot.shinyapps.io/origami_shinyapp/
+version: 1
